@@ -8,7 +8,7 @@
     <div>
         <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
         <img src="https://c.tenor.com/wDDY2RNqRGEAAAAC/anime.gif"
-            align="right" width="350px" height="250px">
+            align="right" width="200px" height="50px">
         <li>
             <b>Name:</b> Ilya</li>
         <li>
