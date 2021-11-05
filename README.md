@@ -8,7 +8,7 @@
     <div>
         <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
         <img src="https://c.tenor.com/wDDY2RNqRGEAAAAC/anime.gif"
-            align="right" width="200px" height="50px">
+            align="right" width="200px" height="150px">
         <li>
             <b>Name:</b> Ilya</li>
         <li>
@@ -46,7 +46,7 @@
         </p>
         <br>
         <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-        <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+        <img src="https://c.tenor.com/5QR79Xb9guMAAAAC/cute-food.gif" align="right" width="200px" height="150px">
         <br>
         <p align="center"> <br>
             </p>
