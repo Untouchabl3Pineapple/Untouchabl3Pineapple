@@ -2,7 +2,7 @@
     <h1 align="center">💖 ~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~ 💖</h1>
     <br>
     <div align="center">
-        <img src="https://i.imgur.com/jx17oHT.gif">
+        <img src="https://c.tenor.com/5QR79Xb9guMAAAAC/cute-food.gif" width="500px" height="270px">
     </div>
     <br>
     <div>
@@ -25,7 +25,7 @@
     <div>
         <h2 align="left">             📇 ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~ 📇</h2>
         <p>
-            <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+            <img src="https://c.tenor.com/pbZqKIX54dUAAAAC/cute-anime.gif" align="right" width="200px" height="150px>
     </div>
     <div>
         <p align="center">
@@ -46,11 +46,11 @@
         </p>
         <br>
         <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-        <img src="https://c.tenor.com/5QR79Xb9guMAAAAC/cute-food.gif" align="right" width="200px" height="150px">
+        <img src="https://c.tenor.com/rdT5jnGym1YAAAAC/pokemon-kittie.gif" align="right" width="200px" height="150px">
         <br>
         <p align="center"> <br>
             </p>
-                <p align="center">
+                <p align="left">
                     <a href="https://t.me/untouchabl3pineapple" target="_blank"><img
                             src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
                 </p>
@@ -59,7 +59,7 @@
     <div>
         <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
         <div align="center">
-            <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+            <img src="https://c.tenor.com/ZINgFAwKh1QAAAAC/anime-love.gif" width="580px" height="326px">
         </div>
         <hr>
     </div>
