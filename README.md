@@ -12,9 +12,6 @@
         <li>
             <b>Name:</b> Ilya</li>
         <li>
-            <b>Loves:</b> You! And maybe a little bit of coding OwO
-        </li>
-        <li>
             <b>Hobbys:</b> Table Tennis, Backend Development, Web Development
         </li>
         <li>
